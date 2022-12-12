@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Yousef;Ashraf;;;
+FN:Ashraf Yousef
+ORG:BPG GROUP
+ADR;TYPE=WORK:Advertising Agency
+TITLE:Sr. Graphic Designer
+TEL;TYPE=CELL:+96555325674
+TEL;TYPE=WORK:+96522968371
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:ashraf.yousef@gmail.com
+URL;TYPE=Digital Business Card:
+URL:bpggroup.com
+URL;TYPE=Website:bpggroup.com
+URL;TYPE=Instagram:https://instagram.com/bpggroup
+URL;TYPE=LinkedIn:https://linkedin.com/in/bpggroup
+URL;TYPE=YouTube:https://youtube.com/BPG Group
+URL;TYPE=Facebook:https://facebook.com/BPGGroup
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100430404
+END:VCARD
